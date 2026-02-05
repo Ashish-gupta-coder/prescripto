@@ -10,9 +10,9 @@ function Home() {
         <img src={assets.header_img} alt="" />
       </div>
       <div className="w-[55%]">
-        <div className="text-white text-5xl font-medium leading-tight">
+        <div className="text-white text-5xl font-medium leading-tight"> 
           <span>Book Appointment <br />with Trusted Doctors</span>
-        </div>
+        </div> 
         <div className="mt-5 flex gap-2">
           <div className="w-36"><img src={assets.group_profiles} alt="" /></div>
           <span className="text-indigo-100 text-sm">Simply browse through our extensive list of trusted doctors, schedule your appointment hassle-free. </span>
@@ -21,7 +21,7 @@ function Home() {
         <button className="bg-white w-56 h-11 rounded-full">Book appointment <span>ar</span></button>
       </div>
       </div>
-     
+
       </div>
     </div>
     {/* speciality section  */}
