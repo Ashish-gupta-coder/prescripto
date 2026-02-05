@@ -6,7 +6,7 @@ function Home() {
     <>
     <div className="w-full flex items-center justify-center py-16">
       <div className="w-[90%] h-[80vh] bg-[#5f6fff] rounded-xl relative flex items-center px-20">
-      <div className=" absolute right-0 bottom-0 w-[500px]">
+      <div className=" absolute right-0 bottom-0 w-[500px]"> 
         <img src={assets.header_img} alt="" />
       </div>
       <div className="w-[55%]">
