@@ -16,7 +16,7 @@ const userSchema = new mongoose.Schema(
     },
     cartData: {
       type: Object,
-      default: {},
+      default: {}, //default
     },
   },
   { timestamps: true, minimize: false },
