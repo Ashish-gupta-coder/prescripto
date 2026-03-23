@@ -1,4 +1,4 @@
-import { genToken, genToken1 } from "../config/token.js";
+import { genToken, genToken1 } from "../config/token.js"; //kyu kya chhedda?..
 import User from "../model/user.model.js";
 import bcrypt from "bcrypt";
 export const signUp = async (req, res) => {
